@@ -43,8 +43,8 @@ Add yours!
 
 ## Get the Shield Badge:
 
-![code meta-data shield](https://img.shields.io/badge/code meta--data-%E2%9C%93-brightgreen.svg)
+![code meta-data shield](https://img.shields.io/badge/code_meta--data-%E2%9C%93-brightgreen.svg)
 
-`![code meta-data shield](https://img.shields.io/badge/code meta--data-%E2%9C%93-brightgreen.svg)`
+`![code meta-data shield](https://img.shields.io/badge/code_meta--data-%E2%9C%93-brightgreen.svg)`
 
 Automatized CODE check is planned.

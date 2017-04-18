@@ -7,7 +7,7 @@ This is a curated list of research software projects providing code meta data,
 proposed in "[JSON-LD for software discovery, reuse and credit](http://www.arfon.org/json-ld-for-software-discovery-reuse-and-credit)",
 which facilitates replicability, reproducibility and reusability (RRR).
 
-Using an [ini](https://en.wikipedia.org/wiki/INI_file)-file was suggested in:
+Using an [ini](https://en.wikipedia.org/wiki/INI_file)-file named `CODE` was suggested in:
 
 J. Heiland, J. Fehr, C. Himpe and J. Saak. Best Practices for Replicability, Reproducibility and Reusability of Computer-Based Experiments Exemplified by Model Reduction Software. AIMS Mathematics (AIMS Math) 1(3): 261--281, 2016. [doi:10.3934/Math.2016.3.261](http://doi.org/10.3934/Math.2016.3.261)
 
@@ -28,12 +28,12 @@ Add yours!
 `topic:` dmoz.org categorization of project  
 `type:` project type, i.e.: application, library, toolbox  
 `license:` opensource.org name of project license  
-`license-type:` license classfication, i.e.: open, copy-left  
+`license-type:` license classification, i.e.: open, copy-left  
 `repository:` url of project repository  
-`repository-type:` version control protocol, i.e.: git  
-`language:` comma separated list of used programming languages  
+`repository-type:` repository protocol, i.e.: git  
+`language:` comma separated list of utilized programming languages  
 `dependencies:` comma separated list of dependencies with versions, ie: Octave >=4.2, Matlab >=2016b  
-`systems:` comma separated list of operating systems, i.e.: Windows, Linux  
+`systems:` comma separated list of compatible operating systems, i.e.: Windows, Linux  
 `website:` url of project website  
 `keywords:` comma separated list of (up to five) keywords
 
@@ -43,4 +43,8 @@ Add yours!
 
 ## Get the Shield Badge:
 
-![code meta-data shield](code_meta-data.svg) `![code meta-data shield](http://github.com/gramian/code-ini/code_meta-data.svg)`
+![code meta-data shield](code_meta-data.svg)
+
+`![code meta-data shield](http://github.com/gramian/code-ini/code_meta-data.svg)`
+
+Automatized CODE check is planned.

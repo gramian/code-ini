@@ -43,8 +43,8 @@ Add yours!
 
 ## Get the Shield Badge:
 
-![code meta-data shield](code_meta-data.svg)
+![code meta-data shield](https://github.com/gramian/code-ini/blob/master/code_meta-data.svg)
 
-`![code meta-data shield](http://github.com/gramian/code-ini/code_meta-data.svg)`
+`![code meta-data shield](https://github.com/gramian/code-ini/code_meta-data.svg)`
 
 Automatized CODE check is planned.

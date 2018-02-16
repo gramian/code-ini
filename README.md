@@ -38,11 +38,11 @@ Add yours!
 
 ### Field Values
 
-It is recommended to use only [printable ASCII](https://en.wikipedia.org/wiki/ASCII#Printable_characters characters).
+It is recommended to use only [printable ASCII characters](https://en.wikipedia.org/wiki/ASCII#Printable_characters).
 
 ### Declaration Header
 
-Optionally, a code.ini declaration may be included as a first line:
+Optionally, a **code-ini** declaration may be included as a first line:
 
 `# code.ini`
 

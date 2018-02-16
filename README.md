@@ -14,7 +14,6 @@ J. Heiland, J. Fehr, C. Himpe and J. Saak. Best Practices for Replicability, Rep
 An additional benefit is the visibility and discoverability of scientific source codes.
 Add yours!
 
-
 ## Sample Keys
 
 `name:` project name  
@@ -37,9 +36,20 @@ Add yours!
 `website:` url of project website  
 `keywords:` comma separated list of (up to five) keywords
 
+### Field Values
+
+It is recommended to use only [printable ASCII](https://en.wikipedia.org/wiki/ASCII#Printable_characters characters).
+
+### Declaration Header
+
+Optionally, a code.ini declaration may be included as a first line:
+
+`# code.ini`
+
 ## Research Software Projects:
 
-* `emgr` - Empirical Gramian Framework  [[web](http://gramian.de)] [[ini](http://github.com/gramian/emgr/blob/master/CODE)]
+* `emgr` [EMpirical GRamian Framework](http://gramian.de) [[code.ini](http://github.com/gramian/emgr/blob/master/CODE)]
+* `flexiblas` [FlexiBLAS - A runtime BLAS switch](https://www.mpi-magdeburg.mpg.de/projects/flexiblas) [[code.ini](https://gitlab.mpi-magdeburg.mpg.de/software/flexiblas-release/raw/master/CODE)]
 
 ## Get the Shield Badge:
 

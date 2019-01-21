@@ -50,6 +50,7 @@ Optionally, a **code-ini** declaration may be included as a first line:
 
 * `emgr` [EMpirical GRamian Framework](http://gramian.de) [[code.ini](http://github.com/gramian/emgr/blob/master/CODE)]
 * `flexiblas` [FlexiBLAS - A runtime BLAS switch](https://www.mpi-magdeburg.mpg.de/projects/flexiblas) [[code.ini](https://gitlab.mpi-magdeburg.mpg.de/software/flexiblas-release/raw/master/CODE)]
+* `hapod` [HAPOD - Hierarchical Approximate Proper Orthogonal Decomposition](https://github.com/gramian/hapod/) [[code.ini](https://github.com/gramian/hapod/blob/master/CODE)]
 
 ## Get the Shield Badge:
 

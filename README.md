@@ -9,7 +9,7 @@ which facilitates replicability, reproducibility and reusability (RRR).
 
 Using an [ini](https://en.wikipedia.org/wiki/INI_file)-file named `CODE` was suggested in:
 
-J. Heiland, J. Fehr, C. Himpe and J. Saak. Best Practices for Replicability, Reproducibility and Reusability of Computer-Based Experiments Exemplified by Model Reduction Software. AIMS Mathematics (AIMS Math) 1(3): 261--281, 2016. [doi:10.3934/Math.2016.3.261](http://doi.org/10.3934/Math.2016.3.261)
+[J. Heiland](https://orcid.org/0000-0003-0228-8522), [J. Fehr](https://orcid.org/0000-0003-2850-1440), [C. Himpe](https://orcid.org/0000-0003-2194-6754) and [J. Saak](https://orcid.org/0000-0001-5567-9637). Best Practices for Replicability, Reproducibility and Reusability of Computer-Based Experiments Exemplified by Model Reduction Software. AIMS Mathematics (AIMS Math) 1(3): 261--281, 2016. [doi:10.3934/Math.2016.3.261](http://doi.org/10.3934/Math.2016.3.261)
 
 An additional benefit is the visibility and discoverability of scientific source codes.
 Add yours!
@@ -48,9 +48,15 @@ Optionally, a **code-ini** declaration may be included as a first line:
 
 ## Research Software Projects:
 
-* `emgr` [EMpirical GRamian Framework](http://gramian.de) [[code.ini](http://github.com/gramian/emgr/blob/master/CODE)]
+* `c-mess` [C Matrix Equations Sparse Solvers](https://www.mpi-magdeburg.mpg.de/projects/mess) [[code.ini](https://gitlab.mpi-magdeburg.mpg.de/mess/cmess-releases/blob/master/CODE)]
+* `emgr` [EMpirical GRamian Framework](https://gramian.de) [[code.ini](http://github.com/gramian/emgr/blob/master/CODE)]
 * `flexiblas` [FlexiBLAS - A runtime BLAS switch](https://www.mpi-magdeburg.mpg.de/projects/flexiblas) [[code.ini](https://gitlab.mpi-magdeburg.mpg.de/software/flexiblas-release/raw/master/CODE)]
+* `granso` [GRadient-based Algorithm for Non-Smooth Optimization](http://www.timmitchell.com/software/GRANSO/) [[code.ini](https://gitlab.com/timmitchell/GRANSO/blob/master/code.ini)]
 * `hapod` [HAPOD - Hierarchical Approximate Proper Orthogonal Decomposition](https://github.com/gramian/hapod/) [[code.ini](https://github.com/gramian/hapod/blob/master/CODE)]
+* `morlab` [Model Order Reduction LABoratory](https://www.mpi-magdeburg.mpg.de/projects/morlab)
+* `m-mess` [MATLAB Matrix Equations Sparse Solvers](https://www.mpi-magdeburg.mpg.de/projects/mess) [[code.ini](https://gitlab.mpi-magdeburg.mpg.de/mess/mmess-releases/blob/v1.0.1/CODE)]
+* `rostapack` [RObust STAbility PACKage](http://www.timmitchell.com/software/ROSTAPACK/index.html) [[code.ini](https://gitlab.com/timmitchell/ROSTAPACK/blob/master/code.ini)]
+* `somddpa` [Second-Order Modally-Damped Dominant Pole Algorithm](https://doi.org/10.5281/zenodo.2553901)
 
 ## Get the Shield Badge:
 
@@ -59,3 +65,9 @@ Optionally, a **code-ini** declaration may be included as a first line:
 `![code meta-data shield](https://img.shields.io/badge/code_meta--data-%E2%9C%93-brightgreen.svg)`
 
 Automatized CODE check is planned.
+
+## See Also:
+
+* [codemeta](https://github.com/codemeta/codemeta)
+* [setup.py](https://docs.python.org/3/distutils/setupscript.html#additional-meta-data)
+* [.desktop](https://standards.freedesktop.org/desktop-entry-spec/desktop-entry-spec-latest.html)

@@ -46,6 +46,10 @@ Optionally, a **code-ini** declaration may be included as a first line:
 
 `# code.ini`
 
+### File Format
+
+Use a plain text, UTF-8 encoded file. 
+
 ## Research Software Projects:
 
 * `c-mess` [C Matrix Equations Sparse Solvers](https://www.mpi-magdeburg.mpg.de/projects/mess) [[code.ini](https://gitlab.mpi-magdeburg.mpg.de/mess/cmess-releases/blob/master/CODE)]
@@ -71,3 +75,4 @@ Automatized CODE check is planned.
 * [codemeta](https://github.com/codemeta/codemeta)
 * [setup.py](https://docs.python.org/3/distutils/setupscript.html#additional-meta-data)
 * [.desktop](https://standards.freedesktop.org/desktop-entry-spec/desktop-entry-spec-latest.html)
+* [gem spec](https://guides.rubygems.org/specification-reference/)

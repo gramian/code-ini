@@ -59,6 +59,7 @@ Use a plain text, UTF-8 encoded file.
 * `hapod` [HAPOD - Hierarchical Approximate Proper Orthogonal Decomposition](https://github.com/gramian/hapod/) [[code.ini](https://github.com/gramian/hapod/blob/master/CODE)]
 * `morlab` [Model Order Reduction LABoratory](https://www.mpi-magdeburg.mpg.de/projects/morlab)
 * `m-mess` [MATLAB Matrix Equations Sparse Solvers](https://www.mpi-magdeburg.mpg.de/projects/mess) [[code.ini](https://gitlab.mpi-magdeburg.mpg.de/mess/mmess-releases/blob/v1.0.1/CODE)]
+* `morgen` [morgen - Model Order Reduction for Gas and Energy Networks](https://github.com/mpimd-csc/morgen) [[code.ini](https://github.com/mpimd-csc/morgen/blob/master/CODE)]
 * `qrupdate-ng` [A FORTRAN library for rank-1 matrix decomposition updates](https://github.com/mpimd-csc/qrupdate-ng) [[code.ini](https://github.com/mpimd-csc/qrupdate-ng/blob/master/CODE)]
 * `rostapack` [RObust STAbility PACKage](http://www.timmitchell.com/software/ROSTAPACK/index.html) [[code.ini](https://gitlab.com/timmitchell/ROSTAPACK/blob/master/code.ini)]
 * `somddpa` [Second-Order Modally-Damped Dominant Pole Algorithm](https://doi.org/10.5281/zenodo.2553901)

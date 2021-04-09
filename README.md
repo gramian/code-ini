@@ -62,6 +62,7 @@ Use a plain text, UTF-8 encoded file.
 * `morgen` [morgen - Model Order Reduction for Gas and Energy Networks](https://github.com/mpimd-csc/morgen) [[code.ini](https://github.com/mpimd-csc/morgen/blob/master/CODE)]
 * `qrupdate-ng` [A FORTRAN library for rank-1 matrix decomposition updates](https://github.com/mpimd-csc/qrupdate-ng) [[code.ini](https://github.com/mpimd-csc/qrupdate-ng/blob/master/CODE)]
 * `rostapack` [RObust STAbility PACKage](http://www.timmitchell.com/software/ROSTAPACK/index.html) [[code.ini](https://gitlab.com/timmitchell/ROSTAPACK/blob/master/code.ini)]
+* `solbt` [Limited Balanced Truncation for Large-Scale Sparse Second-Order Systems](https://doi.org/10.5281/zenodo.4600763)
 * `somddpa` [Second-Order Modally-Damped Dominant Pole Algorithm](https://doi.org/10.5281/zenodo.2553901)
 
 ## Get the Shield Badge:
